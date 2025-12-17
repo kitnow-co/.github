@@ -18,7 +18,7 @@ A comprehensive homeschool management platform designed to streamline educationa
 
 Perfect for parents and tutors seeking to simplify reporting, stay organized, and meet regulatory requirements.
 
-[Learn more about KiddoLog](https://kiddolog.com)
+[Learn more about KiddoLog](https://kitnow.co)
 
 ### 🏫 KiddoLog School
 An extension of KiddoLog tailored for educational institutions, providing real-time, personalized lesson ideas and AI-powered educational tools.
@@ -36,4 +36,4 @@ At KitNow, we believe in making education management accessible, efficient, and 
 
 ---
 
-💡 **Interested in our products?** Visit [KiddoLog](https://kiddolog.com) to start your free trial today!
+💡 **Interested in our products?** Visit [KitNow](https://kitnow.co) to start your free trial today!
