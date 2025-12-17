@@ -7,32 +7,33 @@
 ## Our Products
 
 ### 🎓 KiddoLog
-A comprehensive homeschool management platform designed to streamline educational planning and compliance for homeschooling families.
+A digital platform designed for parents, teachers, and schools to communicate and share updates about children, keeping all parties connected and informed in real time.
 
 **Key Features:**
-- **Lesson Planning** - Create, organize, and track daily lessons with AI-powered suggestions
-- **Activity Logging** - Record both structured and spontaneous learning moments
-- **Reading Logs & Time Tracking** - Manage reading activities and track learning time
-- **Curriculum Management** - Stay aligned with educational objectives
-- **Report Generation** - Produce compliance-ready reports aligned with Australian and US homeschooling requirements
+- **Attendance Tracking** - Monitor and record student attendance
+- **Daily Activities** - Share updates about children's daily activities and experiences
+- **Learning Milestones** - Track and celebrate important developmental achievements
+- **Events & Updates** - Centralize important information and announcements
+- **Real-time Communication** - Keep parents, teachers, and schools connected
 
-Perfect for parents and tutors seeking to simplify reporting, stay organized, and meet regulatory requirements.
+Perfect for families and educators seeking seamless communication and comprehensive visibility into children's educational journey.
 
 [Learn more about KiddoLog](https://kitnow.co)
 
 ### 🏫 KiddoLog School
-An extension of KiddoLog tailored for educational institutions, providing real-time, personalized lesson ideas and AI-powered educational tools.
+The institutional version of KiddoLog, providing schools with powerful tools to manage communication, track student progress, and engage with parents effectively.
 
 **Key Features:**
-- **Personalized Lessons** - AI-powered lesson suggestions matching your curriculum
-- **Daily Lesson Ideas** - Engaging content delivery tools
-- **Educational Management** - Streamlined tools for schools and small educational centers
+- **Student Management** - Comprehensive tools for managing student information and records
+- **Parent Communication** - Streamlined channels for school-to-parent updates
+- **Activity & Event Management** - Organize and share school activities and important events
+- **Progress Tracking** - Monitor and report on student development and achievements
 
-Ideal for schools aiming for efficient educational management and enhanced learning experiences.
+Ideal for schools seeking efficient communication tools and enhanced parent-teacher-school collaboration.
 
 ## Our Mission
 
-At KitNow, we believe in making education management accessible, efficient, and compliant. Our tools help capture the full spectrum of learning—from traditional academics to creative exploration—empowering educators to focus on what matters most: nurturing curious, capable learners.
+At KitNow, we believe in strengthening the connection between parents, teachers, and schools. Our tools help centralize important information and facilitate real-time communication, empowering all parties to stay informed and engaged in children's educational journey.
 
 ---
 
