@@ -1,8 +1,8 @@
-# Privacy Policy for The Kiddo Log
+# Privacy Policy for KiddoLog
 
 **Last updated: 2025-12-17**
 
-The Kiddo Log ("we," "our," or "us") is committed to protecting your privacy. This Privacy Policy explains how we collect, use, and safeguard your information when you use our digital platform, The Kiddo Log (the "App").
+KiddoLog ("we," "our," or "us") is committed to protecting your privacy. This Privacy Policy explains how we collect, use, and safeguard your information when you use our digital platform, KiddoLog (the "App").
 
 ## 1. Information We Collect
 
